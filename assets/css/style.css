@@ -108,6 +108,13 @@ main {
     text-align: justify;
 }
 
+#about_me_paragraph {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    color:rgb(0, 255, 213);
+    font-size: 20px;
+}
+
 #work-flexbox {
     display: flex;
     flex-basis: auto;
@@ -217,7 +224,7 @@ main {
     border-bottom: 2px solid rgb(0, 204, 255)
 }
 
-#contact-me-flexbox nav p{
+/* #contact-me-flexbox nav p{
     display: block;
     box-sizing: border-box;
     min-width: 100px;
@@ -230,8 +237,12 @@ main {
     font-weight: bold;
     text-decoration: none;
 
-}
+} */
 
+
+ul li a {
+    color:rgb(0, 255, 213);
+}
 
 .list-group.list-group-horizontal{
     display: flex;
