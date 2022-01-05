@@ -1,4 +1,4 @@
-# Portfolio_AvalynnWinsor
-A portfolio website for Avalynn Winsor.
-Contains links to my github page and deployed projects.
-![Screenshot of deployed website](https://raw.githubusercontent.com/avalynnw/Portfolio_AvalynnWinsor/main/assets/images/Avalynn%20Winsor's%20Portfolio.png?raw=true)
+# Avalynn Helgrave's Portfolio
+## A repository for my portfolio
+## [Link to the website!](https://avalynnw.github.io/Portfolio_AvalynnWinsor/)
+![Screenshot of the Website](https://github.com/avalynnw/Work-Day-Scheduler-Avalynn-Winsor-/blob/main/assets/images/Avalynn Winsor's Portfolio.png)
