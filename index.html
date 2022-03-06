@@ -61,17 +61,41 @@
         </section>
         <section class="col-sm-8 content_section">
           <div id="most-recent">
-            <a href="https://hobbyhub10.herokuapp.com/" target="blank">
+            <!-- <a href="https://hobbyhub10.herokuapp.com/" target="blank">
                 <img
                 alt="DND NPC Generator"
                 src="./assets/images/HobbyPage.png"
               />
               <div class="bottom-left">HobbyHub</div>
-            </a>
+            </a> -->
+            <!-- .most-recent should be a relative container -->
+
+            <!-- TODO: NEW STUFF -->
+            <div id="most-recent">
+              <a href="https://hobbyhub10.herokuapp.com/" target="blank">
+                <img
+                  alt="DND NPC Generator"
+                  src="./assets/images/HobbyPage.png"
+                />
+              </a>
+              <!-- absolutely position this box in the .bottom-left of .most-recent -->
+              <div class="bottom-left">
+                <a
+                  class="middle-left-repo btn"
+                  href="https://github.com/svellucci18/HobbyHub"
+                  target="blank"
+                >
+                  GitHub Repository
+                </a>
+                <!-- This should also be a link if you want it to still be "clickable" -->
+                <a href="https://hobbyhub10.herokuapp.com/" target="blank"
+                  >HobbyHub</a
+                >
+              </div>
+            </div>
           </div>
-          <div id="others">
-            
-            <a
+          <div id="others" class="row">
+            <!-- <a
               href="https://github.com/avalynnw/SQL-Employee-Database"
               target="blank"
             >
@@ -80,23 +104,7 @@
                 src="./assets/images/sql_application.png"
               />
               <div class="bottom-left">SQL Employee Database</div>
-
-              <!-- TODO: fix this so it shows up the same as the one above -->
-              
-              <!-- <div class="middle-left-repo">this is just a div</div> -->
-
-              <!-- <div class="middle-left-repo-others">
-                <a
-                  href="https://github.com/svellucci18/HobbyHub"
-                  target="_blank"
-                >
-                  <button class="btn">GitHub Repository</button>
-                </a>
-              </div> -->
-
-
             </a>
-
             <a
               href="https://avalynnw.github.io/Work-Day-Scheduler-Avalynn-Winsor-/"
               target="blank"
@@ -106,9 +114,57 @@
                 src="./assets/images/Scheduler Screenshot.png"
               />
               <div class="bottom-left">Work Day Scheduler</div>
-              <!-- <div class="middle-left-repo">Password Generator</div> -->
-            </a>
+            </a> -->
 
+
+            
+            <!-- TODO: NEW STUFF -->
+            <div class="col others_single">
+              <a href="https://hobbyhub10.herokuapp.com/" target="blank">
+                <img
+                  alt="DND NPC Generator"
+                  src="./assets/images/HobbyPage.png"
+                />
+              </a>
+              <!-- absolutely position this box in the .bottom-left of .most-recent -->
+              <div class="others_bottom_left" class="col">
+                <a
+                  class="middle-left-repo-others btn"
+                  href="https://github.com/svellucci18/HobbyHub"
+                  target="blank"
+                >
+                  GitHub Repository
+                </a>
+                <!-- This should also be a link if you want it to still be "clickable" -->
+                <a href="https://hobbyhub10.herokuapp.com/" target="blank"
+                  >HobbyHub</a
+                >
+              </div>
+            </div>
+
+            <!-- TODO: NEW STUFF -->
+            <div class="col others_single">
+              <a href="https://hobbyhub10.herokuapp.com/" target="blank">
+                <img
+                  alt="DND NPC Generator"
+                  src="./assets/images/HobbyPage.png"
+                />
+              </a>
+              <!-- absolutely position this box in the .bottom-left of .most-recent -->
+              <div class="others_bottom_left">
+                <a
+                  class="middle-left-repo-others btn"
+                  href="https://github.com/svellucci18/HobbyHub"
+                  target="blank"
+                >
+                  GitHub Repository
+                </a>
+                <!-- This should also be a link if you want it to still be "clickable" -->
+                <a href="https://hobbyhub10.herokuapp.com/" target="blank"
+                  >HobbyHub</a
+                >
+              </div>
+            </div>
           </div>
         </section>
       </div>
