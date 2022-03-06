@@ -56,7 +56,7 @@ Run the program from the root directory using:
 
 and follow the promts to interact with the database.
 
-![Screenshot of the Website](./assets/images/Avalynn_Helgrave's_Portfolio.png)
+![Screenshot of the Website](./assets/images/screenshot.png)
 
 # [Link to the Portfolio!](https://avalynnw.github.io/Portfolio_AvalynnWinsor/)
 
