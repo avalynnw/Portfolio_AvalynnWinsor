@@ -58,7 +58,7 @@ and follow the promts to interact with the database.
 
 ![Screenshot of the Website](./assets/images/Avalynn_Helgrave's_Portfolio.png)
 
-### [Link to the website!](https://avalynnw.github.io/Portfolio_AvalynnWinsor/)
+# [Link to the Portfolio!](https://avalynnw.github.io/Portfolio_AvalynnWinsor/)
 
 ## Contributing
 
