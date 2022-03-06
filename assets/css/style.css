@@ -285,8 +285,9 @@ main {
 
 .middle-left-repo-others a button {
     position: relative;
-    bottom: 60px;
-    left: 0px;
+    /* bottom: 60px;
+    left: 0px; */
+    z-index: 1;
     background-color: rgb(156, 18, 219);
     font-size: 100%;
     color: #d2dee9;
